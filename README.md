@@ -14,6 +14,7 @@ Este repositório contém um projeto desenvolvido para gerar arquivos PDF de man
 <br>
 3. Verifique as configurações adicionais no arquivo config.py (se aplicável). Certifique-se de que todos os parâmetros estejam configurados de acordo com suas necessidades.
 <br>
+
 ### Execução
 
 1. Após a configuração, o projeto pode ser executado da seguinte forma:
@@ -22,9 +23,9 @@ Execute o script principal para gerar o PDF: <br>
 OU SE preferir clique com o botão direito do mouse no seu código e clique em: RUN PYTHON > RUN PYTHON FILE IN TERMINAL
 <br>
 2. Em seguida responda as perguntas que vão aparecer no terminal.
-<br>
+<br><br>
 Os arquivos PDF gerados serão salvos na pasta especificada no arquivo config.py. Verifique o conteúdo do PDF gerado para garantir que tudo esteja conforme o esperado.
-
+<br>
 ### Estrutura
 
 gerador_de_pdf/<br>
