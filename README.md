@@ -26,6 +26,7 @@ OU SE preferir clique com o botão direito do mouse no seu código e clique em: 
 <br><br>
 Os arquivos PDF gerados serão salvos na pasta especificada no arquivo config.py. Verifique o conteúdo do PDF gerado para garantir que tudo esteja conforme o esperado.
 <br>
+
 ### Estrutura
 
 gerador_de_pdf/<br>
