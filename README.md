@@ -6,35 +6,35 @@ Este repositório contém um projeto desenvolvido para gerar arquivos PDF de man
 ### Configuração
 1. Clone o repositório:
 ```git clone https://github.com/leopxz/gerador_de_pdf.git```
-```cd gerador_de_pdf```
+<br>```cd gerador_de_pdf```
 
 2. Instale as dependências:
-```pip install fpdf```
+```pip install fpdf```<br>
 ```pip install -r requirements.txt```
-
+<br>
 3. Verifique as configurações adicionais no arquivo config.py (se aplicável). Certifique-se de que todos os parâmetros estejam configurados de acordo com suas necessidades.
-
+<br>
 ### Execução
 
 1. Após a configuração, o projeto pode ser executado da seguinte forma:
-Execute o script principal para gerar o PDF:
-```python gerador.py```
+Execute o script principal para gerar o PDF:<br>
+```python gerador.py```<br>
 OU SE preferir clique com o botão direito do mouse no seu código e clique em: RUN PYTHON > RUN PYTHON FILE IN TERMINAL
-
+<br>
 2. Em seguida responda as perguntas que vão aparecer no terminal.
-
+<br>
 Os arquivos PDF gerados serão salvos na pasta especificada no arquivo config.py. Verifique o conteúdo do PDF gerado para garantir que tudo esteja conforme o esperado.
 
 ### Estrutura
+<br>
+gerador_de_pdf/<br>
+├── .gitgnore            # Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git<br>
+├── LICENSE.          # Arquivo que contém a licença do projeto<br>
+├── Orçamento.pdf         # PDF gerado como exemplo<br>
+├── README.md            # Documentação do projeto<br>
+├── gerador.py   # Script principal para gerar o PDF<br>
+└── template.png          # modelo do pdf<br>
 
-gerador_de_pdf/
-├── .gitgnore            # Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git
-├── LICENSE.          # Arquivo que contém a licença do projeto
-├── Orçamento.pdf         # PDF gerado como exemplo
-├── README.md            # Documentação do projeto
-├── gerador.py   # Script principal para gerar o PDF
-└── template.png          # modelo do pdf
-
-Contribuição
+### Contribuição
 Sinta-se à vontade para contribuir com melhorias ou correções neste projeto. Sugestões e pull requests são sempre bem-vindos.
 
