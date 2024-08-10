@@ -31,7 +31,7 @@ OU SE preferir clique com o botão direito do mouse no seu código e clique em: 
 
 ## Estrutura
 
-gerador_de_pdf/
+gerador_de_pdf/<br>
 ├── .gitgnore            # Arquivo que especifica quais arquivos e diretórios devem ser ignorados pelo Git<br>
 ├── LICENSE.          # Arquivo que contém a licença do projeto<br>
 ├── Orçamento.pdf         # PDF gerado como exemplo<br>
